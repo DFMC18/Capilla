@@ -1,8 +1,4 @@
 #EXT3MU
-#EXTINF:-1,LISTA GRATIS GRUPO : LISTAS IPTV GRATIS -STORE IPTV PRIVADO
-http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
-#EXTINF:-1, LISTAS PRIVADAS POR IMBOX
-http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Docu | HD
 https://secure-streams.akamaized.net/rt-doc/index.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521991466.png" group-title="Chileiptv" , CO RCN
